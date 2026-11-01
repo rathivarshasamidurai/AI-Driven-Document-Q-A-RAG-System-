@@ -1,0 +1,9 @@
+
+gradio
+pypdf
+sentence-transformers
+faiss-cpu
+rank-bm25
+transformers
+torch
+numpy
